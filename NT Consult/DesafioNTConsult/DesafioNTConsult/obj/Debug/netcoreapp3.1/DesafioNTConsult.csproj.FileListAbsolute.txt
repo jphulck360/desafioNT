@@ -1,0 +1,11 @@
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\bin\Debug\netcoreapp3.1\DesafioNTConsult.exe
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\bin\Debug\netcoreapp3.1\DesafioNTConsult.deps.json
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\bin\Debug\netcoreapp3.1\DesafioNTConsult.runtimeconfig.json
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\bin\Debug\netcoreapp3.1\DesafioNTConsult.runtimeconfig.dev.json
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\bin\Debug\netcoreapp3.1\DesafioNTConsult.dll
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\bin\Debug\netcoreapp3.1\DesafioNTConsult.pdb
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\obj\Debug\netcoreapp3.1\DesafioNTConsult.AssemblyInfoInputs.cache
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\obj\Debug\netcoreapp3.1\DesafioNTConsult.AssemblyInfo.cs
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\obj\Debug\netcoreapp3.1\DesafioNTConsult.dll
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\obj\Debug\netcoreapp3.1\DesafioNTConsult.pdb
+C:\Users\jessi\Nego\Documentos JP\CARREIRA\DESAFIOS\NT Consult\DesafioNTConsult\DesafioNTConsult\obj\Debug\netcoreapp3.1\DesafioNTConsult.csprojAssemblyReference.cache
